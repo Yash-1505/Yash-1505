@@ -13,10 +13,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Building+things+that+(hopefully)+work+%F0%9F%98%85;Always+learning%2C+one+cert+at+a+time+%F0%9F%8F%85)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-itsyashwanth-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://itsyashwanth.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yashwanthmarella.me-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.yashwanthmarella.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-itsyashwanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsyashwanth)
 [![GitHub](https://img.shields.io/badge/GitHub-Yash--1505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-1505)
-[![Instagram](https://img.shields.io/badge/Instagram-@its.yash.1505-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its.yash.1505)
+[![Instagram](https://img.shields.io/badge/Instagram-@yashwanth.marella-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashwanth.marella)
 
 </div>
 
